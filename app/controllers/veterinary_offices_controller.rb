@@ -11,14 +11,12 @@ class VeterinaryOfficesController < ApplicationController
     @veterinary_office = VeterinaryOffice.find(params[:veterinary_office_id])
 
     @office_vets = if params[:sort] == "alphabetical"
-                     @veterinary_office.alphabetical_vets
-                   elsif params[:review_rating]
-                     @veterinary_office.office_vets_filtered_by_rating(
-                       params[:review_rating]
-                     )
-                   else
-                     @veterinary_office.on_call_vets
-                   end
+                      @veterinary_office.alphabetical_vets
+                    elsif params[:review_rating]
+                      @veterinary_office.office_vets_filtered_by_rating(params[:review_rating])
+                    else
+                      @veterinary_office.on_call_vets
+                    end
   end
 
   def show
