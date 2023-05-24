@@ -20,119 +20,119 @@ Return to your DTR any time you come into a team conflict
 
 ### DTR: Essential Questions to Discuss
 
-What are your learning goals for the project?  
+What are your learning goals for the project?
 
 - Blaine: Strengthen my Rails workflow and reading errors and finding solutions
 - Myles: Get solid with the rails workflow
 
-What are your strengths and areas of growth?  
+What are your strengths and areas of growth?
 
-- Blaine: Strength is proplem solving and research. Communication also is strong. Need more growth in Rails, CRUD and MVC 
+- Blaine: Strength is proplem solving and research. Communication also is strong. Need more growth in Rails, CRUD and MVC
 - Myles: Confident in Ruby skills, feel pretty good about SQL, working on Rails & database architecture
 
-What do I offer the team?  
+What do I offer the team?
 
 - Blaine: Good attitude, open to ideas, and out-of-the-box thinking.
 - Myles: Technical skills and organization
 
-What learning do you want to focus on in the project?  
+What learning do you want to focus on in the project?
 
 - Blaine: Git workflow and project managment, Rails app building, Rubocop
 - Myles: Rails, Active Record, Github Projects
 
-  - How can our team help support one anothers in improving these skills?  
+  - How can our team help support one anothers in improving these skills?
 
     - Blaine: I can offer some help with Git projects and open be to changing how we approach a problem to focus on a need outlined in learning goals.
     - Myles: I can help with the rubocop!
 
-How do you learn best with coding?  
+How do you learn best with coding?
 
 - Blaine: Async time to work through a problem on my own, then coming together and seeing how someone else solved a problem/collaborating ideas.
 - Myles: I often need to take time to read about new concepts and tools
 
-How do you like to collaborate with others?  
+How do you like to collaborate with others?
 
 - Blaine: Make a plan then work async
 - Myles: Plan synchronously and write code asynchronously, usually
 
-Do you like to work alone first?  
+Do you like to work alone first?
 
 - Blaine: Yes, but not a hard and fast rule
 - Myles: Depends on the task
 
-Do you like to speak out loud as you are learning?  
+Do you like to speak out loud as you are learning?
 
 - Blaine: Only when a problem gets too complex and needs to be spoken into the light
 - Myles: No
 
-What do you need (resources, environment, communication) to do your best work?  
+What do you need (resources, environment, communication) to do your best work?
 
-- Blaine: Chat over Slack and some Zoom time for sharing code 
+- Blaine: Chat over Slack and some Zoom time for sharing code
 - Myles: My office and good communication
 
-How do you communicate best?  
+How do you communicate best?
 
 - Blaine: Text/slack
 - Myles: DM for smaller issues and video call for larger, more complex, issues
 
-How do you appreciate receiving communication from others?  
+How do you appreciate receiving communication from others?
 
 - Blaine: Text/slack
 - Myles: Early and often
 
-How do you appreciate receiving feedback from others?  
+How do you appreciate receiving feedback from others?
 
 - Blaine: Directly
 - Myles: Early and often
 
-How do you best give feedback to others?  
+How do you best give feedback to others?
 
 - Blaine: However they like
 - Myles: Video call if anything other than fully positive
 
-What scheduling restraints do you have?  
+What scheduling restraints do you have?
 
 - Blaine: Meeting 3:30-4:30mt on friday, Saturday I am busy all day
 - Myles: Open 9am - 9pm every day
 
- What are your scheduling preferences?  
+ What are your scheduling preferences?
 
 - Blaine: Evenings, Sunday all day
 - Myles: Open 9am - 9pm every day
 
-What tools do you want to use to manage the project?  
+What tools do you want to use to manage the project?
 
 - Blaine: Git projects
 - Myles: Github Projects
 
-How do you want the group to solve problems when members run into issues with features of the project?  
+How do you want the group to solve problems when members run into issues with features of the project?
 
 - Blaine: Post in Slack, meet on Zoom when schedules work
 - Myles: Use appropriate communication channel
 
-When will we check in again about our process and progress?  
+When will we check in again about our process and progress?
 
 - Blaine: Friday?
 - Myles: Tomorrow
 
-How do you know if a project is successful?  
+How do you know if a project is successful?
 
 - Blaine: When we achieve the satisfactory points and works online.
 - Myles: If we complete it and understand it
 
-How can we achieve success as a group?  
+How can we achieve success as a group?
 
-- Blaine: Communicate 
+- Blaine: Communicate
 - Myles: Keep effective communication
 
-How can we achieve success as individuals?  
+How can we achieve success as individuals?
 
 - Blaine: take poms and ask questions
 - Myles: Finish the project and contribute meaningfully
 
-Is there anything else we should know about one another before we start working?  
+Is there anything else we should know about one another before we start working?
 
-- Blaine: I work and have meetings during the day but will communicate. No suprises. 
+- Blaine: I work and have meetings during the day but will communicate. No suprises.
 - Myles: Incapable of multitasking and terrible at non-verbal communication.
 
 &nbsp;
@@ -145,46 +145,46 @@ Is there anything else we should know about one another before we start working?
 
 &nbsp;
 
-Individual Reflection:  
+Individual Reflection:
 
-Have I been able to uphold the DTR norms we set?  
+Have I been able to uphold the DTR norms we set?
 
-- Blaine:
-- Myles:
+- Blaine: Yes
+- Myles: Yes
 
-Are there any new norms or expectations I would like to add?  
+Are there any new norms or expectations I would like to add?
 
-- Blaine:
-- Myles:
+- Blaine: No
+- Myles: No
 
-Do I need to give any feedback or clarify my working relationship with anyone?  
+Do I need to give any feedback or clarify my working relationship with anyone?
 
-- Blaine:
-- Myles:
+- Blaine: No, everything we laid out went well and the project moved smoothly
+- Myles: No, we worked great together
 
 &nbsp;
 
-Team Discussion:  
+Team Discussion:
 
-Have we been able to meet the DTR norms we set?  
+Have we been able to meet the DTR norms we set?
 
--
+- Yes
 
-In what ways are we working well together?  
+In what ways are we working well together?
 
--
+- Very good at async
 
-Are there ways we should operate differently in order to be at our best as a team?  
+Are there ways we should operate differently in order to be at our best as a team?
 
--
+- No
 
-What do we commit to changing?  
+What do we commit to changing?
 
--
+- Nothing
 
-When will we check in again?  
+When will we check in again?
 
--
+- No, project is over
 
 ## IF YOU HAVE A CONFLICT
 
@@ -194,24 +194,24 @@ When will we check in again?
 
 &nbsp;
 
-Individual Reflection:  
+Individual Reflection:
 
-What behaviors/actions are occurring that are causing a challenge?  
-
-- Blaine:
-- Myles:
-
-Why are those behaviors challenging?  
+What behaviors/actions are occurring that are causing a challenge?
 
 - Blaine:
 - Myles:
 
-Did we discuss those behaviors in our DTR?  
+Why are those behaviors challenging?
 
 - Blaine:
 - Myles:
 
-What language should I use to communicate this challenge?  
+Did we discuss those behaviors in our DTR?
+
+- Blaine:
+- Myles:
+
+What language should I use to communicate this challenge?
 
 - Blaine:
 - Myles:
@@ -220,18 +220,18 @@ What language should I use to communicate this challenge?
 
 Team Discussion:
 
-Identify the problem/challenge that needs to be solved  
+Identify the problem/challenge that needs to be solved
 
 -
 
-What are the behaviors happening?  
+What are the behaviors happening?
 
 -
 
-How could we update our DTR to address this?  
+How could we update our DTR to address this?
 
 -
 
-What actions can we all take to move forward?  
+What actions can we all take to move forward?
 
 -
