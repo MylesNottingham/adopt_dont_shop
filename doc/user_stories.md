@@ -227,7 +227,7 @@ And instead I see an indicator next to the pet that they have been rejected
 ```
 
 ```
-[ ] done
+[x] done
 
 14. Approved/Rejected Pets on one Application do not affect other Applications
 
